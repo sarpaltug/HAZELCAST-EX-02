@@ -2,10 +2,10 @@
 
 This repository contains the solution for **Hazelcast Exercise 02 (HAZELCAST-EX-02)** from i2i Academy.
 
-## 🚀 Exercise Description
+##  Exercise Description
 The goal of this exercise is to **run Hazelcast** and **Hazelcast Management Center** containers using Docker.
 
-## 🛠️ Steps to Run
+##  Steps to Run
 
 ### 1. Pull Hazelcast
 ```bash
